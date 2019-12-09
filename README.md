@@ -1,3 +1,3 @@
-# automation_with_pyautogui
+# automatization_with_pyautogui
 Примеры работы с pyautogui 
 https://github.com/asweigart/pyautogui
